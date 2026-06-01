@@ -1,36 +1,215 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on<br>Building DevOps and Cloud projects using Docker, Kubernetes, Terraform, CI/CD, and GitHub Actions.<br><br>👯 I’m looking to collaborate on<br>Open-source DevOps projects, cloud infrastructure automation, and backend engineering initiatives.<br><br>🤝 I’m looking for help with<br>Improving production-grade architecture skills, cloud best practices, and contributing to larger open-source projects.<br><br>🌱 I’m currently learning<br>Advanced Kubernetes, AWS Cloud services, Terraform, GitOps, and scalable infrastructure design.<br><br>You can also make it more personal:<br><br>🔭 I’m currently working on<br>Personal DevOps projects and strengthening my cloud engineering portfolio.<br><br>👯 I’m looking to collaborate on<br>DevOps, Backend, and Infrastructure as Code projects.<br><br>🤝 I’m looking for help with<br>Finding opportunities to gain real-world production experience.<br><br>🌱 I’m currently learning<br>AWS • Kubernetes • Terraform • Linux • CI/CD • GitOps
+<!-- ====================== HEADER ====================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarbenhammouda18@gmail.com) 
+# Omar Ben Hammouda
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=    OmarBenHammouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=    OmarBenHammouda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=    OmarBenHammouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### `DevOps Engineer` · `Cloud Enthusiast` · `Infrastructure & Automation`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/-Building%20reliable%20infrastructure%20and%20automating%20everything-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6"/>
+
+<br/>
+
+<p>
+<a href="mailto:omarbenhammouda18@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OmarBenHammouda">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=    OmarBenHammouda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**OmarBenHammouda/OmarBenHammouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+```yaml
+name: Omar Ben Hammouda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+role:
+  - DevOps Engineer
+  - Cloud Learner
+
+location: 🇹🇳 Tunisia
+
+focus:
+  - Infrastructure as Code
+  - Cloud Engineering
+  - Automation
+  - CI/CD
+  - Kubernetes
+
+currently_working_on:
+  - Personal DevOps projects
+  - Cloud portfolio building
+  - Production-style deployments
+
+currently_learning:
+  - AWS
+  - Kubernetes
+  - Terraform
+  - GitOps
+  - Scalable Infrastructure
+
+goal:
+  Build reliable systems that scale.
+```
+
+### What I'm doing
+
+* 🔭 Building DevOps & Cloud projects
+* 🌱 Improving production-ready infrastructure skills
+* 👯 Open to collaborating on DevOps / Backend / IaC projects
+* 🤝 Looking to gain real-world production experience
+* ⚡ Enjoy learning through building
+
+---
+
+## 🛠 Tech Stack
+
+<table>
+
+<tr>
+<td width="140"><b>Cloud</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Containers</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Automation</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,terraform,ansible"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Monitoring</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=grafana"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,java"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>System</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git"/>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+```bash
+$ ls ~/projects
+
+📦 GitOps DevOps Platform
+│── Terraform
+│── Kubernetes
+│── Docker
+│── ArgoCD
+└── Automated Deployments
+
+📦 CI/CD Pipeline Automation
+│── Jenkins
+│── GitHub Actions
+└── Infrastructure Provisioning
+
+📦 Cloud Infrastructure Lab
+│── AWS
+│── Terraform
+└── Monitoring Stack
+```
+
+> Replace these with your real repositories later.
+
+---
+
+## 📈 Current Focus
+
+```txt
+Cloud Architecture     ███████░░░
+Terraform              ████████░░
+Kubernetes             ███████░░░
+AWS                    ██████░░░░
+GitOps                 █████░░░░░
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarBenHammouda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBenHammouda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OmarBenHammouda&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+```bash
+$ whoami
+
+omarbenhammouda
+→ DevOps Engineer
+→ Cloud Enthusiast
+→ Open to collaborations
+```
+
+<div align="center">
+
+If my work interests you, feel free to connect ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
