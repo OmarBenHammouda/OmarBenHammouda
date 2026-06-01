@@ -128,7 +128,7 @@ goal:
 </table>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ```bash
@@ -153,7 +153,7 @@ $ ls ~/projects
 ```
 
 > Replace these with your real repositories later.
-
+-->
 ---
 
 ## 📈 Current Focus
